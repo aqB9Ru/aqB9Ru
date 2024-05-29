@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I code in Python and do remote sensing, machine learning, and time series forecasting.
+- 🔭 
 <!--
 **aqB9Ru/aqB9Ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
